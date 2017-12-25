@@ -1,0 +1,26 @@
+{
+  "name": "speedrun.js",
+  "version": "1.0.0",
+  "description": "A Javascript library that completely covers the Speedrun.com API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xTVaser/speedrun.js.git"
+  },
+  "keywords": [
+    "speedrun"
+  ],
+  "author": "Tyler Wilding",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/xTVaser/speedrun.js/issues"
+  },
+  "homepage": "https://github.com/xTVaser/speedrun.js#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.2.0"
+  }
+}
